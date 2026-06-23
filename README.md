@@ -17,6 +17,9 @@ An interactive Power BI dashboard built on Classic Model sales data.
 ### Net Profit Dashboard
 ![Net Profit Dashboard](Net_Profit_Dashboard.png)
 
+### Detailed Analysis
+![Detailed Analysis](Detailed_analysis.png)
+
 ## Tools Used
 ## Tools Used
 - Power BI Desktop
