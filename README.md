@@ -21,7 +21,6 @@ An interactive Power BI dashboard built on Classic Model sales data.
 ![Detailed Analysis](Detailed_analysis.png)
 
 ## Tools Used
-## Tools Used
 - Power BI Desktop
 - MySQL (data source)
 - DAX (MoM%, YTD measures)
