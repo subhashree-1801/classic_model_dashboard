@@ -18,6 +18,13 @@ An interactive Power BI dashboard built on Classic Model sales data.
 ![Net Profit Dashboard](Net_Profit_Dashboard.png)
 
 ## Tools Used
+## Tools Used
 - Power BI Desktop
+- MySQL (data source)
 - DAX (MoM%, YTD measures)
 - Bookmarks & Navigation
+
+## Dataset
+- Source: Classic Models database
+- Records: Sales transactions from 2003–2005
+- Key fields: Product line, Customer country, Order number, Sales, Net Profit
